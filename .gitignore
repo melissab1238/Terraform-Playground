@@ -1,0 +1,7 @@
+# VSCODE
+/coverage
+
+# Terraform
+/.terraform
+*.tfstate
+.terraform*
